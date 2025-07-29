@@ -47,7 +47,3 @@ This project is part of my internship at **Instant SW Solutions**, where I perfo
 - Interactive report shared on LinkedIn and GitHub
 - Demonstrated storytelling with data using modern BI tools
 
----
-
-## 📂 Repository Structure
-
